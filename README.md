@@ -1,0 +1,2 @@
+# -AI-based-retail-Sales-Forecasting-Anomaly-Detection-System
+This project presents robust, end-to-end intelligent forecasting &amp; analytics system designed to bridge advanced ML with real-world business decision-making. The solution combines state-of-art time series forecasting, deep learning, cloud deployment, &amp; Gen AI to deliver accurate predictions &amp; actionable insights through intuitive user interface.
